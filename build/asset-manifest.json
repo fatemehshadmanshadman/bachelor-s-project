@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.77142388.css",
+    "main.js": "/static/js/main.4e4c0a2c.js",
+    "static/media/LOGO.png": "/static/media/LOGO.f58952b419c42b62489f.png",
+    "static/media/access.png": "/static/media/access.9729da807e499db73ae2.png",
+    "static/media/net.jpg": "/static/media/net.8049778cf280b2b1c139.jpg",
+    "static/media/exel.png": "/static/media/exel.5578dc5f65717d0d0604.png",
+    "static/media/back.jpg": "/static/media/back.4ae11268b56f085f3ad7.jpg",
+    "static/media/power.png": "/static/media/power.fde00833ff6b5dee2d72.png",
+    "static/media/win.jpg": "/static/media/win.52837dbeda6989afe352.jpg",
+    "static/media/word.png": "/static/media/word.417f2a5605b3f0c25ff0.png",
+    "static/media/whatsapp-icon.svg": "/static/media/whatsapp-icon.7dc3f3267bee9b39fd8d08466208e48a.svg",
+    "static/media/instagram-icon.svg": "/static/media/instagram-icon.4d969dd141d389ed7a2fe7584b56d681.svg",
+    "index.html": "/index.html",
+    "static/media/telegram-icon.svg": "/static/media/telegram-icon.b0589b5e724dd92cc132ddb6a0e049d9.svg",
+    "static/media/svg-decorator-blob-9.svg": "/static/media/svg-decorator-blob-9.8e136b6ba18ab63d97e6f62a68063192.svg",
+    "static/media/svg-decorator-blob-5.svg": "/static/media/svg-decorator-blob-5.3175ec4088eed43061604a370e074787.svg",
+    "static/media/svg-decorator-blob-7.svg": "/static/media/svg-decorator-blob-7.04fa60c9416090a003233f93c9de14b1.svg",
+    "static/media/log-in.svg": "/static/media/log-in.26463742329bbcff0cc5bfdfc7459026.svg",
+    "static/media/menu.svg": "/static/media/menu.644fa295fdd5f662e642ba6bfb084239.svg",
+    "static/media/x.svg": "/static/media/x.6c9a4ba71a333be7b021fc6da39d864c.svg",
+    "static/media/chevron-down.svg": "/static/media/chevron-down.c3e123cf78bc368a192f3e2dee97daba.svg",
+    "static/media/facebook-icon.svg": "/static/media/facebook-icon.8f6512c4ee4f21763666f0f3b69d970d.svg",
+    "main.77142388.css.map": "/static/css/main.77142388.css.map",
+    "main.4e4c0a2c.js.map": "/static/js/main.4e4c0a2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77142388.css",
+    "static/js/main.4e4c0a2c.js"
+  ]
+}
